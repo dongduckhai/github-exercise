@@ -4,6 +4,9 @@ food three
 movie one
 movie two
 movie three
+tree one
+tree two
+tree three
 animal one
 animal two
 animal three
