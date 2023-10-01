@@ -13,3 +13,6 @@ tree three
 animal one
 animal two
 animal three
+cat one
+cat two
+cat three
